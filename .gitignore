@@ -12,5 +12,4 @@ _deps
 remote_profile/
 node_modules/
 temp/
-.vs/
 .vscode/
